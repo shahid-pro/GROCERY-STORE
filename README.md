@@ -1,3 +1,4 @@
+
 # GROCERY-STORE
 Introduction
 The Internet provides consumers with a new medium of obtaining useful information and for purchasing goods, information and services. The main purpose of GROCERY DELIVERY SYSTEM is to create and develop new models, and to optimize the relationships between a grocery company and its customers. Changing from shopping at the supermarket to online grocery shopping can improve an online grocery retailer’s productivity by shortening supply chains, reducing overhead costs, and enabling “just in time” service.
@@ -6,3 +7,8 @@ Delivery of products at the doorstep has become a convenient option for employee
   • Control orders and services. 
   • Control stuff and their shifting. 
   • Control multiple branches. 
+![5](https://user-images.githubusercontent.com/70672146/178178110-5f91767f-6827-48ce-88a1-bf8c3133ad20.JPG)
+![4](https://user-images.githubusercontent.com/70672146/178178126-437229b8-91d0-4afc-aa6c-6b5fc9a7b368.JPG)
+![3](https://user-images.githubusercontent.com/70672146/178178134-a9c3e62a-80f2-4282-882b-8a7a536e1261.JPG)
+![2](https://user-images.githubusercontent.com/70672146/178178137-7836d313-9880-44ee-87f6-483bfec9667b.JPG)
+![1](https://user-images.githubusercontent.com/70672146/178178139-49197e75-c26b-48af-8aad-21bc15da66f8.JPG)
