@@ -21,3 +21,14 @@ Delivery of products at the doorstep has become a convenient option for employee
 
 ## MongoDB compass and Admin login in Terminal
 ![5](https://user-images.githubusercontent.com/70672146/178178110-5f91767f-6827-48ce-88a1-bf8c3133ad20.JPG)
+
+## Requirements
+Nodejs
+mongoDB
+MongoDB Compass
+
+##Run
+
+npm install
+
+node index.js
